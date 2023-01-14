@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Wegis Silveira.
  <div style="display: flex">
   <a href="https://github.com/wegissilveira">
-  <img height="180em"src="https://github-readme-stats.vercel.app/api?username=wegissilveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wegissilveira&layout=compact&langs_count=7&theme=tokyonight&card_width=250"/>
+  <img height="180em"src="https://github-readme-stats-sigma-five.vercel.app/api?username=wegissilveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wegissilveira&layout=compact&langs_count=7&theme=tokyonight&card_width=250"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Wegis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
